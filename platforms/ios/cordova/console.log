@@ -1,0 +1,120 @@
+2014-11-12 12:11:38.235 HelloCordova[12851:557919] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/D3215103-A360-4460-B3FF-F82947A14EE8/Library/Cookies/Cookies.binarycookies
+2014-11-12 12:11:38.317 HelloCordova[12851:557919] Multi-tasking -> Device: YES, App: YES
+2014-11-12 12:11:38.328 HelloCordova[12851:557919] Unlimited access to network resources
+2014-11-12 12:11:38.334 HelloCordova[12851:557919] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-12 12:11:39.164 HelloCordova[12851:557919] Resetting plugins due to page load.
+2014-11-12 12:11:39.275 HelloCordova[12851:557919] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/C0120EA6-C574-43CB-91EB-A9198243DB17/HelloCordova.app/www/index.html
+2014-11-12 12:47:06.809 HolidayMap[13047:567027] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/B28FF60E-20D7-4803-B7EE-34DEE784F55D/Library/Cookies/Cookies.binarycookies
+2014-11-12 12:47:06.903 HolidayMap[13047:567027] Multi-tasking -> Device: YES, App: YES
+2014-11-12 12:47:06.916 HolidayMap[13047:567027] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-12 12:47:07.123 HolidayMap[13047:567027] Resetting plugins due to page load.
+2014-11-12 12:47:07.154 HolidayMap[13047:567051] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyCi61f8L5ncwCjQg0TNfhb9AiLxOwAYLRI'
+2014-11-12 12:47:07.176 HolidayMap[13047:567027] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/DD375CCC-9874-4931-9E9F-7DBE485C56E9/HolidayMap.app/www/index.html
+2014-11-12 12:48:45.693 HolidayMap[13176:568124] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/D8463E57-1862-461E-B8CA-F63FF78372C9/Library/Cookies/Cookies.binarycookies
+2014-11-12 12:48:45.765 HolidayMap[13176:568124] Multi-tasking -> Device: YES, App: YES
+2014-11-12 12:48:45.775 HolidayMap[13176:568124] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-12 12:48:45.994 HolidayMap[13176:568124] Resetting plugins due to page load.
+2014-11-12 12:48:46.025 HolidayMap[13176:568147] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyCi61f8L5ncwCjQg0TNfhb9AiLxOwAYLRI'
+2014-11-12 12:48:46.046 HolidayMap[13176:568124] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/C4AF8114-7825-4D88-B534-0C7CF1EF8158/HolidayMap.app/www/index.html
+2014-11-12 12:50:04.428 HolidayMap[13298:569103] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/1ED15FA5-B635-4C6C-83F6-7198E43B5655/Library/Cookies/Cookies.binarycookies
+2014-11-12 12:50:04.516 HolidayMap[13298:569103] Multi-tasking -> Device: YES, App: YES
+2014-11-12 12:50:04.527 HolidayMap[13298:569103] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-12 12:50:04.729 HolidayMap[13298:569103] Resetting plugins due to page load.
+2014-11-12 12:50:04.759 HolidayMap[13298:569129] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyCi61f8L5ncwCjQg0TNfhb9AiLxOwAYLRI'
+2014-11-12 12:50:04.778 HolidayMap[13298:569103] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/62F26D8B-0829-41E4-B51C-A0B7192D3ABA/HolidayMap.app/www/index.html
+2014-11-12 12:56:44.374 HolidayMap[13432:571338] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/EAA91E03-F216-4864-8BD0-333C6C3FBC3A/Library/Cookies/Cookies.binarycookies
+2014-11-12 12:56:44.467 HolidayMap[13432:571338] Multi-tasking -> Device: YES, App: YES
+2014-11-12 12:56:44.475 HolidayMap[13432:571338] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-12 12:56:44.676 HolidayMap[13432:571338] Resetting plugins due to page load.
+2014-11-12 12:56:44.710 HolidayMap[13432:571366] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyBMBQnxcN3RG1Ualk_SvgkMGHg5V-rHTIo'
+2014-11-12 12:56:44.732 HolidayMap[13432:571338] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/01002D28-5F6E-4455-89AD-D4793C73F2C4/HolidayMap.app/www/index.html
+2014-11-12 12:57:17.876 HolidayMap[13547:572072] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/7EE2B0A8-9FF1-415A-A851-E0BCCC056F77/Library/Cookies/Cookies.binarycookies
+2014-11-12 12:57:17.959 HolidayMap[13547:572072] Multi-tasking -> Device: YES, App: YES
+2014-11-12 12:57:17.968 HolidayMap[13547:572072] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-12 12:57:18.153 HolidayMap[13547:572072] Resetting plugins due to page load.
+2014-11-12 12:57:18.180 HolidayMap[13547:572099] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyBMBQnxcN3RG1Ualk_SvgkMGHg5V-rHTIo'
+2014-11-12 12:57:18.198 HolidayMap[13547:572072] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/DD3E8169-87CA-4B80-9981-83F8CEFEE5EF/HolidayMap.app/www/index.html
+2014-11-12 13:31:08.094 HolidayMap[13736:581342] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/896A4573-072C-4E20-B1C3-EDEE7F5F3D74/Library/Cookies/Cookies.binarycookies
+2014-11-12 13:31:08.195 HolidayMap[13736:581342] Multi-tasking -> Device: YES, App: YES
+2014-11-12 13:31:08.207 HolidayMap[13736:581342] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-12 13:31:08.428 HolidayMap[13736:581342] Resetting plugins due to page load.
+2014-11-12 13:31:08.461 HolidayMap[13736:581370] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyB0FM5TxM9gJEZkgIWNeXWVh8ApoicY6oo&sensor=false'
+2014-11-12 13:31:08.468 HolidayMap[13736:581342] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/B6D2EDDC-7D95-47F1-A53A-CA02505E2F2E/HolidayMap.app/www/index.html
+2014-11-12 13:33:50.243 HolidayMap[13867:582912] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/F7B891A1-4D33-491F-8D6B-F3844486F783/Library/Cookies/Cookies.binarycookies
+2014-11-12 13:33:50.326 HolidayMap[13867:582912] Multi-tasking -> Device: YES, App: YES
+2014-11-12 13:33:50.339 HolidayMap[13867:582912] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-12 13:33:50.537 HolidayMap[13867:582912] Resetting plugins due to page load.
+2014-11-12 13:33:50.570 HolidayMap[13867:582935] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCi61f8L5ncwCjQg0TNfhb9AiLxOwAYLRI&sensor=false'
+2014-11-12 13:33:50.576 HolidayMap[13867:582912] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/BB57CFC5-EE05-4DD6-A89A-46FD56745CDC/HolidayMap.app/www/index.html
+2014-11-12 13:35:52.954 HolidayMap[13990:584300] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/5E4F6318-3E01-42AC-88FB-5842CC150A7C/Library/Cookies/Cookies.binarycookies
+2014-11-12 13:35:53.039 HolidayMap[13990:584300] Multi-tasking -> Device: YES, App: YES
+2014-11-12 13:35:53.053 HolidayMap[13990:584300] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-12 13:35:53.616 HolidayMap[13990:584300] Resetting plugins due to page load.
+2014-11-12 13:35:53.650 HolidayMap[13990:584327] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCi61f8L5ncwCjQg0TNfhb9AiLxOwAYLRI&sensor=false'
+2014-11-12 13:35:53.655 HolidayMap[13990:584300] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/4DB9EA44-2BBA-4A54-A86F-E6AEFBF78CB7/HolidayMap.app/www/index.html
+2014-11-16 10:21:15.422 HolidayMap[14527:646761] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Data/Application/2F1A2207-7683-4175-80D3-4CA2C6197C87/Library/Cookies/Cookies.binarycookies
+2014-11-16 10:21:15.492 HolidayMap[14527:646761] Multi-tasking -> Device: YES, App: YES
+2014-11-16 10:21:15.548 HolidayMap[14527:646761] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-16 10:21:16.129 HolidayMap[14527:646761] Resetting plugins due to page load.
+2014-11-16 10:21:16.185 HolidayMap[14527:646860] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyBMBQnxcN3RG1Ualk_SvgkMGHg5V-rHTIo&sensor=false'
+2014-11-16 10:21:16.209 HolidayMap[14527:646761] Finished load of: file:///Users/bradylewis/Library/Developer/CoreSimulator/Devices/3FCF9804-2E14-44D6-9848-0B833C7BCF83/data/Containers/Bundle/Application/74DEB8C0-2B40-4FC6-90E5-48699F608CF7/HolidayMap.app/www/index.html

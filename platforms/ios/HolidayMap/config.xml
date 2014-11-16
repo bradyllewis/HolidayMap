@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.csn300.BradyLewis" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="AllowInlineMediaPlayback" value="false" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="BackupWebStorage" value="cloud" />
+    <preference name="DisallowOverscroll" value="false" />
+    <preference name="EnableViewportScale" value="false" />
+    <preference name="FadeSplashScreen" value="true" />
+    <preference name="FadeSplashScreenDuration" value=".25" />
+    <preference name="KeyboardDisplayRequiresUserAction" value="true" />
+    <preference name="MediaPlaybackRequiresUserAction" value="false" />
+    <preference name="ShowSplashScreenSpinner" value="true" />
+    <preference name="SuppressesIncrementalRendering" value="false" />
+    <preference name="TopActivityIndicator" value="gray" />
+    <preference name="GapBetweenPages" value="0" />
+    <preference name="PageLength" value="0" />
+    <preference name="PaginationBreakingMode" value="page" />
+    <preference name="PaginationMode" value="unpaginated" />
+    <feature name="LocalStorage">
+        <param name="ios-package" value="CDVLocalStorage" />
+    </feature>
+    <name>HolidayMap</name>
+    <description>
+        A simple holiday mapping app.
+    </description>
+    <author email="bradyllewis@gmail.com" href="https://bradylennon.com">
+        Brady Lewis
+    </author>
+    <icon src="icon.png" />
+    <gap:splash src="splash.png" />
+    <gap:platform name="ios" />
+    <gap:platform name="android" />
+    <uses-sdk android:maxSdkVersion="19" android:minSdkVersion="19" android:targetSdkVersion="19" />
+    <feature name="Geolocation">
+        <param name="android-package" value="org.apache.cordova.GeoBroker" />
+        <param name="ios-package" value="CDVLocation" />
+    </feature>
+    <gap:plugin name="org.apache.cordova.geolocation" version="0.3.10" />
+    <gap:config-file overwrite="false" parent="NSLocationAlwaysUsageDescription" platform="ios" />
+</widget>

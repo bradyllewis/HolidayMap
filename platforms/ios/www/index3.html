@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+    </style>
+    <script type="text/javascript" charset="utf-8" src="phonegap.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyBMBQnxcN3RG1Ualk_SvgkMGHg5V-rHTIo&sensor=false"> </script>
+    <script>
+
+function initialize() {
+  var myLatlng = new google.maps.LatLng(40,-95);
+  var detroit = new google.maps.LatLng(42,-83);
+  var dallas = new google.maps.LatLng(33,-97);
+  var sanfran = new google.maps.LatLng(38,-122);
+  var mapOptions = {
+    zoom: 4,
+    center: myLatlng
+  };
+
+  var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+  var detroitString = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">GAME 1</h1>'+
+      '<div id="bodyContent">'+
+      '<p><b>Chicago vs Detroit</b></p> ' +
+      '<p><img src="img/bears.jpg" /> &nbsp&nbsp&nbsp&nbsp vs &nbsp&nbsp&nbsp&nbsp <img src="img/lions.jpg" /></P>'+
+      '<p><b>Gametime:</b> 12:30pm on CBS'+
+      '</p>'+
+      '</div>'+
+      '</div>';
+
+  var infoDetroit = new google.maps.InfoWindow({
+      content: detroitString,
+      maxWidth: 300
+  });
+
+  var marker = new google.maps.Marker({
+    
+      position: detroit,
+      map: map,
+      title: 'Game 1'
+  });
+  google.maps.event.addListener(marker, 'click', function() {
+    infoDetroit.open(map,marker);
+  });
+
+  var dallasString = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">GAME 2</h1>'+
+      '<div id="bodyContent">'+
+      '<p><b>Philadelphia vs Dallas</b></p> ' +
+      '<p><img src="img/eagles.jpg" /> &nbsp&nbsp&nbsp&nbsp vs &nbsp&nbsp&nbsp&nbsp <img src="img/cowboys.jpg" /></P>'+
+      '<p><b>Gametime:</b> 4:30pm on FOX'+
+      '</p>'+
+      '</div>'+
+      '</div>';
+
+  var infoDallas = new google.maps.InfoWindow({
+      content: dallasString,
+      maxWidth: 300
+  });
+
+  var marker2 = new google.maps.Marker({
+    
+      position: dallas,
+      map: map,
+      title: 'Game 2'
+  });
+  google.maps.event.addListener(marker2, 'click', function() {
+    infoDallas.open(map,marker2);
+  });
+
+
+    var sanfranString = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">GAME 3</h1>'+
+      '<div id="bodyContent">'+
+      '<p><b>Seattle vs San Francisco</b></p> ' +
+      '<p><img src="img/seahawks.jpg" /> &nbsp&nbsp&nbsp&nbsp vs &nbsp&nbsp&nbsp&nbsp <img src="img/49ers.jpg" /></P>'+
+      '<p><b>Gametime:</b> 8:30pm on NBC'+
+      '</p>'+
+      '</div>'+
+      '</div>';
+
+  var infoSanfran = new google.maps.InfoWindow({
+      content: sanfranString,
+      maxWidth: 300
+  });
+
+  var marker3 = new google.maps.Marker({
+    
+      position: sanfran,
+      map: map,
+      title: 'Game 3'
+  });
+  google.maps.event.addListener(marker3, 'click', function() {
+    infoSanfran.open(map,marker3);
+  });
+
+
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+  </head>
+  <body>
+    <div id="map-canvas"></div>
+  </body>
+</html>
+
